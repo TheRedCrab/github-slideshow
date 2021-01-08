@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"TheRedCrab is Red and is a Crab"
 Use the left arrow to go back!
